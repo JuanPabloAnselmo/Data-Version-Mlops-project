@@ -1,2 +1,2 @@
 # cybulde-project-template
-A simple template for Cybulde project
+A simple template for data version with DVC
